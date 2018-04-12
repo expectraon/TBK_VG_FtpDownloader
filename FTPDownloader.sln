@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FTPDownloader", "FTPDownloader\FTPDownloader.csproj", "{23C41407-D22C-4639-AEA7-6068BD4B60FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23C41407-D22C-4639-AEA7-6068BD4B60FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23C41407-D22C-4639-AEA7-6068BD4B60FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23C41407-D22C-4639-AEA7-6068BD4B60FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23C41407-D22C-4639-AEA7-6068BD4B60FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03298FE1-7606-4693-8CC9-5DCFECD82FB5}
+	EndGlobalSection
+EndGlobal
